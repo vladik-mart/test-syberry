@@ -31,7 +31,6 @@
 |  <span class="hljs-number">4</span> |      <span class="hljs-number">43</span>     |  <span class="hljs-number">6.0</span>  | <span class="hljs-number">12</span>/<span class="hljs-number">2</span>/<span class="hljs-number">2020</span> | 
 </code></pre>
 <h3 class="code-line" data-line-start=40 data-line-end=41 ><a id="Installation_40"></a>Installation</h3>
-<p class="has-line-data" data-line-start="41" data-line-end="42">Install the dependencies and start the server.</p>
 <pre><code class="has-line-data" data-line-start="44" data-line-end="48" class="language-sh">$ <span class="hljs-built_in">cd</span> <span class="hljs-variable">$your_path</span>
 $ git <span class="hljs-built_in">clone</span> https://github.com/vladik-mart/<span class="hljs-built_in">test</span>-syberry.git
 $ composer update
